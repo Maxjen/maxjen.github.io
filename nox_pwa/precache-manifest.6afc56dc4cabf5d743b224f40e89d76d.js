@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "icons/icon-128.png"
   },
   {
-    "revision": "8a5e4c56daf08067ed7a",
+    "revision": "2479aae80528cade938d",
     "url": "bundle.js"
   }
 ];
