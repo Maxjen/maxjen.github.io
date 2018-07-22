@@ -1,7 +1,7 @@
 {
-    "name": "Nox PWA",
-    "short_name": "Nox PWA",
-    "description": "Application to create 2D meshes.",
+    "name": "2D Object Editor",
+    "short_name": "Editor",
+    "description": "Application to create 2D objects.",
     "icons": [
         {
             "src": "icons/icon-128.png",
@@ -14,7 +14,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "/nox_pwa/index.html",
+    "start_url": "/editor/index.html",
     "display": "fullscreen",
     "theme_color": "#141414",
     "background_color": "#323234"
