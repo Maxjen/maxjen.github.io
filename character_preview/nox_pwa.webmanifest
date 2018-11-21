@@ -1,6 +1,6 @@
 {
-    "name": "2D Object Editor",
-    "short_name": "Editor",
+    "name": "Character Preview",
+    "short_name": "Character Preview",
     "description": "Application to create 2D objects.",
     "icons": [
         {
