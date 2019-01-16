@@ -1,6 +1,6 @@
 {
-    "name": "2D Object Editor",
-    "short_name": "Editor",
+    "name": "Character Preview",
+    "short_name": "Character",
     "description": "Application to create 2D objects.",
     "icons": [
         {
@@ -14,8 +14,9 @@
             "type": "image/png"
         }
     ],
-    "start_url": "/editor/index.html",
+    "start_url": "/character_preview/index.html",
     "display": "fullscreen",
+    "orientation": "landscape",
     "theme_color": "#141414",
     "background_color": "#323234"
 }
